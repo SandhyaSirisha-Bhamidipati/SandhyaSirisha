@@ -1,6 +1,4 @@
 Name: Sandhya Sirisha Bhamidipati
-UTA ID: 1001663914
-
 Programming Language used: Python
 
 Note: Make sure that all the files are in the same directory.
