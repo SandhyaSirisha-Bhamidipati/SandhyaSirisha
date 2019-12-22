@@ -31,6 +31,9 @@ def a_star(graph, start, dest):
                 print(path)
     return False
 
+if __name__ == "__main__":
+    main()
+
 
 
 
