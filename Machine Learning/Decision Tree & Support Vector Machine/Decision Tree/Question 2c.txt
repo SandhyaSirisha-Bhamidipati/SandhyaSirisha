@@ -1,0 +1,2 @@
+As seen from the output of decision_tree.py, both the accuracy of training data and that of the test data are 100%. 
+This shows that the model doesn't overfit the data.
