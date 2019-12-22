@@ -1,9 +1,3 @@
-Name : Sandhya Sirisha Bhamidipati
-
-UTA ID: 1001663914
-
-Language : Python
-
 Code Structure:
 The program has been organised within 2 files; maxconnect4.py and MaxConnect4Game.py
 
