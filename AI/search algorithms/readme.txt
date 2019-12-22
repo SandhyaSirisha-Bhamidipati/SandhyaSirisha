@@ -31,13 +31,11 @@ The code starts from this method
 are
 astar.py:
 
-This file contains the following methods:
+This file contains the following method:
 1) Priority Queue - Storing each node being processed and assessing costs for each node.
 
 
-How to run the code:
-
-The command to run the code is:
+The command to run the code:
 	python ucs.py <input_file.ext> <source> <destination>
 Example:
 	python ucs.py input1.txt luebeck kassel
